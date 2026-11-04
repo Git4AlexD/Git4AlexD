@@ -1,6 +1,6 @@
 # Hi, I'm Alex
 
-I'm a Data Analyst moving into Data Science, working full time while studying for an MSc in Computer Science with Artificial Intelligence at the University of York. I enjoy writing clean, readable Python in the PEP 8 style, and I'm particularly interested in machine learning and AI. I have a proven track record of turning data into decisions throughout my career: building pipelines that collect it reliably, models that are evaluated honestly, and software that is tested and maintainable.
+I'm a Data Analyst moving into data science, working full time while studying for an MSc in Computer Science with Artificial Intelligence at the University of York. My projects below focus on what makes machine learning trustworthy: pipelines that run reliably every day, models judged against a real benchmark rather than their own fit, and code that's tested and continuously integrated.
 
 ## Tools I use
 
@@ -9,7 +9,7 @@ I'm a Data Analyst moving into Data Science, working full time while studying fo
 | **Languages** | Python · R (tidyverse) · SQL · SAS |
 | **Data analysis and BI** | Power BI · SAS Enterprise Guide · tidyverse · pandas · NumPy |
 | **Machine learning** | TensorFlow · Keras · statsmodels · SciPy · regression modelling |
-| **Engineering** | Git · GitHub Actions CI · pytest · ruff (PEP 8 linting and formatting) |
+| **Engineering** | Git · GitHub Actions CI · pytest · ruff |
 
 ## Personal Projects
 
