@@ -1,6 +1,6 @@
 # Hi, I'm Alex
 
-I'm a Data Analyst moving into data science, working full time while studying for an MSc in Computer Science with Artificial Intelligence at the University of York. I enjoy writing clean, readable Python in the PEP 8 style, and I'm particularly interested in machine learning and AI. I have a proven track record of turning data into decisions throughout my career: building pipelines that collect it reliably, models that are evaluated honestly, and software that is tested and maintainable.
+I'm a Data Analyst moving into Data Science, working full time while studying for an MSc in Computer Science with Artificial Intelligence at the University of York. I enjoy writing clean, readable Python in the PEP 8 style, and I'm particularly interested in machine learning and AI. I have a proven track record of turning data into decisions throughout my career: building pipelines that collect it reliably, models that are evaluated honestly, and software that is tested and maintainable.
 
 ## Tools I use
 
